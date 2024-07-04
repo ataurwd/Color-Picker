@@ -1,0 +1,13 @@
+input{
+     
+        width: 28px;
+        border: none;
+        border-radius: 118px;
+    
+}
+
+input[type="color"]{
+    border: none;
+    cursor: pointer;
+    border-radius: 50%;
+}
